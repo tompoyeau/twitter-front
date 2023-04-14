@@ -85,5 +85,6 @@ export default {
 <style scoped>
 a {
   color: #00e676;
+  text-decoration: none;
 }
 </style>

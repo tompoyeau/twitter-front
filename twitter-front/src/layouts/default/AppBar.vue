@@ -7,20 +7,6 @@
       </v-btn>
     </router-link>
 
-    <router-link to="/connexion">
-      <v-btn value="add">
-        <v-icon>mdi-plus</v-icon>
-        <span>Tweeter</span>
-      </v-btn>
-    </router-link>
-
-    <router-link to="/connexion">
-      <v-btn value="account">
-        <v-icon>mdi-account-circle</v-icon>
-        <span>Profil</span>
-      </v-btn>
-    </router-link>
-
     <router-link to="/utilisateurs">
       <v-btn value="users">
         <v-icon>mdi-account-group</v-icon>
